@@ -6,6 +6,10 @@ Database Design
 
 Feature Breakdown
 
+API Security
+
+
+CI/CD Pipeline
 Project scope/stage	Project description	Team size	Team Roles
 Discovery/PoC
 A proof of concept (PoC) is a small-scale project that helps you test the feasibility of your software idea without committing to a full-blown development. PoC is not a market-ready product.
