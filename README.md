@@ -1,4 +1,8 @@
+Technology Stack
+
 Team Roles
+
+Database Design
 
 Project scope/stage	Project description	Team size	Team Roles
 Discovery/PoC
@@ -27,6 +31,8 @@ Product owner (usually on the client’s side), project manager, business analys
 Optionally: test automation engineers, performance engineers, DevOps engineers, security engineers
 
 To optimize the software development process, costs, and team composition, you could use low-code and no-code solutions. However, even the simplest software products built with such tools require a business analyst and a software engineer; without technical expertise, you won’t be able to map business requirements against the product’s feature set and configure the components appropriately. Additionally, low-code and no-code development tools are best suited for PoC and MVP projects.
+
+
 
 Deadline
 How quickly you need to turn your product around will influence the team structure and size, too. Quite obviously, with fewer team members, it may take longer to complete the project. So, if you have an idea of a state-of-the-art product that needs to be developed from scratch and on a tight deadline, you might have to assemble an extended team of senior engineers or a group of full-stack engineers who will be able to cover all needs and deliver results quickly and efficiently.
